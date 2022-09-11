@@ -17,5 +17,4 @@ This app uses the [CoinAPI](https://www.coinapi.io/) to get the live prices of t
 - Getting live data from the internet using the http package.
 - Using free API's to get live data.
 
-
 ![App Preview](assets/images/bitcoin_ticker_app_preview.gif)
