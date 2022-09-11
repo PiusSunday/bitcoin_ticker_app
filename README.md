@@ -1,16 +1,21 @@
 # bitcoin_ticker_app
 
-A new Flutter project.
+Bitcoin Ticker App is Mobile App that allows a user to check the live prices of certain cryptocurrencies in any of the selected currencies.
 
-## Getting Started
+This app uses the [CoinAPI](https://www.coinapi.io/) to get the live prices of the cryptocurrencies.
 
-This project is a starting point for a Flutter application.
+## Building this App, I learned
 
-A few resources to get you started if this is your first Flutter project:
+- How to use the DropdownButton Widget from Material design.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- How to loop through code using Dart for and for-in loops.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- How to use Cupertino Widgets in a Flutter App.
+
+- How to check the platform your app is being run on to customise the UI for that platform.
+
+- Getting live data from the internet using the http package.
+- Using free API's to get live data.
+
+
+![App Preview](assets/images/bitcoin_ticker_app_preview.gif)
